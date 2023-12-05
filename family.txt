@@ -1,0 +1,7 @@
+In git hub there are codes that can be saved to remote repo and will be pulled back inorder to update or delete changes.
+This can be done by adding the file into repo and saving it. there are severeal ways to do that.
+Firstly, save the text file in to a directory and initialise git in that directory. This will help git to track the history of changes
+Then we will stage the file from our local repo to the staging area
+After that we can commit the file to the repo.
+Then we will connect our local repo to the remote repo
+after connecting to repo, we can push changes into our remote repo
