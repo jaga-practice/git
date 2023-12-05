@@ -5,3 +5,8 @@ Then we will stage the file from our local repo to the staging area
 After that we can commit the file to the repo.
 Then we will connect our local repo to the remote repo
 after connecting to repo, we can push changes into our remote repo
+
+Now we have created a branch and a new file alled contents.text
+We will add some changes to the file and we will try to merge it with our file in master branch.
+after that we will check whether we are following the process or not.
+For this we need to create a branch in our remote repo then add some file to it and we will commit to and try to pull and merge the two files
